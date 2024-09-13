@@ -69,7 +69,7 @@ nav ul {
 }
 
 nav a {
-  display: inline block;
+  display: inline flow-root;
   font-size: 2rem;
   text-transform: uppercase;
   text-decoration: none;
